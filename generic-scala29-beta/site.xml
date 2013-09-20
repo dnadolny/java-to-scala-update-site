@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.github.dnadolny.javatoscala.feature_0.1.0.local-2_09-201308220203-aed6ad3.jar" id="com.github.dnadolny.javatoscala.feature" version="0.1.0.local-2_09-201308220203-aed6ad3">
+   <feature url="features/com.github.dnadolny.javatoscala.feature_0.1.0.local-2_09-201309201219-1f5bd42.jar" id="com.github.dnadolny.javatoscala.feature" version="0.1.0.local-2_09-201309201219-1f5bd42">
       <category name="com.github.dnadolny.javatoscala"/>
    </feature>
-   <feature url="features/com.github.dnadolny.javatoscala.source.feature_0.1.0.local-2_09-201308220203-aed6ad3.jar" id="com.github.dnadolny.javatoscala.source.feature" version="0.1.0.local-2_09-201308220203-aed6ad3">
+   <feature url="features/com.github.dnadolny.javatoscala.source.feature_0.1.0.local-2_09-201309201219-1f5bd42.jar" id="com.github.dnadolny.javatoscala.source.feature" version="0.1.0.local-2_09-201309201219-1f5bd42">
       <category name="com.github.dnadolny.javatoscala-source"/>
    </feature>
    <category-def name="com.github.dnadolny.javatoscala" label="Java to Scala plugin"/>
